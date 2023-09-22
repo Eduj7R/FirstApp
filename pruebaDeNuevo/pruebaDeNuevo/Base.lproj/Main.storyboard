@@ -84,12 +84,15 @@
                                 <string key="toolTip" base64-UTF8="YES">
 CQ
 </string>
+                                <string key="toolTip" base64-UTF8="YES">
+CQ
+</string>
                                 <color key="tintColor" name="AccentColor"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="filled" title="Don't press"/>
                             </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="descarga.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="2hw-pr-zyp">
-                                <rect key="frame" x="0.0" y="176" width="393" height="256"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="lariomeme.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="Dgj-I6-QAs">
+                                <rect key="frame" x="0.0" y="158" width="393" height="294"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -110,6 +113,7 @@ CQ
                     <toolbarItems/>
                     <navigationItem key="navigationItem" id="LTB-km-EDP"/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="EEv-Qx-z1W">
+                        <rect key="frame" x="0.0" y="0.0" width="1000" height="1000"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </tabBar>
@@ -126,8 +130,8 @@ CQ
     </scenes>
     <resources>
         <image name="character.book.closed.fill.ja" catalog="system" width="115" height="128"/>
-        <image name="descarga.jpeg" width="300" height="168"/>
         <image name="doc.richtext.fill.ja" catalog="system" width="115" height="128"/>
+        <image name="lariomeme.jpg" width="720" height="403.20001220703125"/>
         <image name="person.crop.circle.fill.badge.exclamationmark" catalog="system" width="128" height="114"/>
         <namedColor name="AccentColor">
             <color red="0.20392156862745098" green="0.7803921568627451" blue="0.34901960784313724" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>

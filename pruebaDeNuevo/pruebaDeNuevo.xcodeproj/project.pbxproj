@@ -13,7 +13,7 @@
 		FB4541192ABDA3110053F637 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB4541172ABDA3110053F637 /* Main.storyboard */; };
 		FB45411B2ABDA3120053F637 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB45411A2ABDA3120053F637 /* Assets.xcassets */; };
 		FB45411E2ABDA3120053F637 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB45411C2ABDA3120053F637 /* LaunchScreen.storyboard */; };
-		FB4541262ABDA5650053F637 /* descarga.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FB4541252ABDA5650053F637 /* descarga.jpeg */; };
+		FB45412A2ABDB7990053F637 /* lariomeme.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB4541292ABDB7990053F637 /* lariomeme.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		FB45411A2ABDA3120053F637 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB45411D2ABDA3120053F637 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FB45411F2ABDA3120053F637 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FB4541252ABDA5650053F637 /* descarga.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = descarga.jpeg; path = ../../descarga.jpeg; sourceTree = "<group>"; };
+		FB4541292ABDB7990053F637 /* lariomeme.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lariomeme.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,11 +58,11 @@
 		FB4541102ABDA3110053F637 /* pruebaDeNuevo */ = {
 			isa = PBXGroup;
 			children = (
+				FB4541292ABDB7990053F637 /* lariomeme.jpg */,
 				FB4541112ABDA3110053F637 /* AppDelegate.swift */,
 				FB4541132ABDA3110053F637 /* SceneDelegate.swift */,
 				FB4541152ABDA3110053F637 /* ViewController.swift */,
 				FB4541172ABDA3110053F637 /* Main.storyboard */,
-				FB4541252ABDA5650053F637 /* descarga.jpeg */,
 				FB45411A2ABDA3120053F637 /* Assets.xcassets */,
 				FB45411C2ABDA3120053F637 /* LaunchScreen.storyboard */,
 				FB45411F2ABDA3120053F637 /* Info.plist */,
@@ -131,7 +131,7 @@
 				FB45411E2ABDA3120053F637 /* LaunchScreen.storyboard in Resources */,
 				FB45411B2ABDA3120053F637 /* Assets.xcassets in Resources */,
 				FB4541192ABDA3110053F637 /* Main.storyboard in Resources */,
-				FB4541262ABDA5650053F637 /* descarga.jpeg in Resources */,
+				FB45412A2ABDB7990053F637 /* lariomeme.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
